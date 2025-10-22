@@ -1,0 +1,40 @@
+﻿@* <h1>index</h1>
+<h1>current date and time is @DateTime.Now</h1>
+<h1>current year @DateTime.Now.Year</h1>
+
+@{
+    var name = "John Doe";
+    var age = 30;
+}
+<p>Name: @name</p>
+<p>Age: @age</p> *@
+
+
+<p>huzaifa kashif</p>
+<p>from aptech</p>
+<hr/>
+@ViewData["data1"] <br />  
+@ViewData["data2"]<br />
+@ViewData["data3"]
+<hr/>
+@foreach (var item in (string[])ViewData["fruitslist"])
+{
+   <h2>@item</h2>
+}
+<hr/>
+@ViewBag.data1 <br/>
+@ViewBag.data2 <br/>
+@ViewBag.data3 <hr/>
+@foreach(var students in ViewBag.data4)
+{
+    <h2>@students</h2>
+};
+<hr/>
+@foreach (var game in ViewBag.data5)
+{<ul>
+    <li>@game</li></ul>
+};
+<hr/>
+<h1>@TempData["data1"]</h1>
+
+

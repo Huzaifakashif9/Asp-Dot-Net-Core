@@ -1,0 +1,21 @@
+﻿<h1>salam bhai</h1>
+<h1>@TempData["data1"]</h1>
+<hr/>
+<hr/>
+@{
+    var hello = ViewData["biography"] as List<class>;}
+    <table>
+    <tr>
+        <th>rollno</th>
+        <th>Name</th>
+        <th>fname</th>
+         <th>number</th>
+         foreach(var item in hello)
+         {
+             <tr>@item.rollno</tr>
+             <tr>@item.name</tr>
+             <tr>@item.fname</tr>
+             <tr>@item.number</tr>
+         }
+    </table>
+

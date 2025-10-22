@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\properties\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\properties\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\newfolder1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\newfolder1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|c:\\c#\\routing\\routing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B795F4-FABF-4162-901C-2A2F0DFA4818}|routing\\routing.csproj|solutionrelative:routing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\NewFolder1\\Class.cs",
+              "RelativeDocumentMoniker": "routing\\NewFolder1\\Class.cs",
+              "ToolTip": "C:\\C#\\routing\\routing\\NewFolder1\\Class.cs",
+              "RelativeToolTip": "routing\\NewFolder1\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:40:20.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "routing\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\C#\\routing\\routing\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "routing\\Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T21:55:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "routing\\Views\\Home\\about.cshtml",
+              "ToolTip": "C:\\C#\\routing\\routing\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "routing\\Views\\Home\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T21:53:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "routing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\routing\\routing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "routing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T22:36:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "routing\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\C#\\routing\\routing\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "routing\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:55:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "routing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#\\routing\\routing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "routing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:12:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Properties\\HomeController.cs",
+              "RelativeDocumentMoniker": "routing\\Properties\\HomeController.cs",
+              "ToolTip": "C:\\C#\\routing\\routing\\Properties\\HomeController.cs",
+              "RelativeToolTip": "routing\\Properties\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:11:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\routing\\routing\\Program.cs",
+              "RelativeDocumentMoniker": "routing\\Program.cs",
+              "ToolTip": "C:\\C#\\routing\\routing\\Program.cs",
+              "RelativeToolTip": "routing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:24:32.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
