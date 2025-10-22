@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    // var emp = ViewData["myemployee"] as employee;
+    // var emp = ViewBag.myemployee
+    var emp = TempData["myemployee"] as employee;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@{
+    if(emp != null)
+    {
+        <h2>Employee KI Details</h2>
+        <p>Id: @emp.id</p>
+        <p>Name: @emp.name</p>
+        <p>City: @emp.city</p>
+        <p>Salary: @emp.salary</p>
+    }
+}

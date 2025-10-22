@@ -1,0 +1,33 @@
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.AssemblyInfoInputs.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.AssemblyInfo.cs
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.csproj.CoreCompileInputs.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.RazorAssemblyInfo.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.RazorAssemblyInfo.cs
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\appsettings.Development.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\appsettings.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.staticwebassets.runtime.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.staticwebassets.endpoints.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.exe
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.deps.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.runtimeconfig.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.dll
+C:\C#\passing model data from controller to view\passing model data from controller to view\bin\Debug\net8.0\passing model data from controller to view.pdb
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\scopedcss\bundle\passing model data from controller to view.styles.css
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\scopedcss\projectbundle\passing model data from controller to view.bundle.scp.css
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\staticwebassets.build.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\staticwebassets.development.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.dll
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\refint\passing model data from controller to view.dll
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.pdb
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\passing model data from controller to view.genruntimeconfig.cache
+C:\C#\passing model data from controller to view\passing model data from controller to view\obj\Debug\net8.0\ref\passing model data from controller to view.dll

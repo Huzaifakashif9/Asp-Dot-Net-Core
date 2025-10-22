@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\passing model data from controller to view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|c:\\c#\\passing model data from controller to view\\passing model data from controller to view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|solutionrelative:passing model data from controller to view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|c:\\c#\\passing model data from controller to view\\passing model data from controller to view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|solutionrelative:passing model data from controller to view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|c:\\c#\\passing model data from controller to view\\passing model data from controller to view\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E07FE61-FCDF-4C7D-99BF-518E32C25C1C}|passing model data from controller to view\\passing model data from controller to view.csproj|solutionrelative:passing model data from controller to view\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "passing model data from controller to view\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "passing model data from controller to view\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T22:00:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "passing model data from controller to view\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "passing model data from controller to view\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:57:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Models\\employee.cs",
+              "RelativeDocumentMoniker": "passing model data from controller to view\\Models\\employee.cs",
+              "ToolTip": "C:\\C#\\passing model data from controller to view\\passing model data from controller to view\\Models\\employee.cs",
+              "RelativeToolTip": "passing model data from controller to view\\Models\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:55:50.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

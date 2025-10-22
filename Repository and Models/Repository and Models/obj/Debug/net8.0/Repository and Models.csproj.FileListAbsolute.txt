@@ -1,0 +1,33 @@
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\appsettings.Development.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\appsettings.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.staticwebassets.runtime.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.staticwebassets.endpoints.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.exe
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.deps.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.runtimeconfig.json
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.dll
+C:\C#\Repository and Models\Repository and Models\bin\Debug\net8.0\Repository and Models.pdb
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.AssemblyInfoInputs.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.AssemblyInfo.cs
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.csproj.CoreCompileInputs.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.RazorAssemblyInfo.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.RazorAssemblyInfo.cs
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\scopedcss\bundle\Repository and Models.styles.css
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\scopedcss\projectbundle\Repository and Models.bundle.scp.css
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\staticwebassets.build.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\staticwebassets.development.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.dll
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\refint\Repository and Models.dll
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.pdb
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\Repository and Models.genruntimeconfig.cache
+C:\C#\Repository and Models\Repository and Models\obj\Debug\net8.0\ref\Repository and Models.dll
