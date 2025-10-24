@@ -1,0 +1,49 @@
+﻿@model User
+
+<form asp-action="Add" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span><br />
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span><br />
+    </div>
+
+    <div>
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span><br/>
+    </div>
+
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span><br />
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span><br />
+    </div>
+
+    <div>
+        <label asp-for="ConfirmPassword"></label>
+        <input asp-for="ConfirmPassword" type="password" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span><br />
+    </div>
+
+    <div>
+        <label asp-for="course"></label>
+        <select asp-for="course" asp-items="Html.GetEnumSelectList<Courses>()" class="form-control"></select>
+        
+    </div>
+
+    <br />
+    <button type="submit">Submit</button>
+</form>
+<partial name="_ValidationScriptsPartial" />

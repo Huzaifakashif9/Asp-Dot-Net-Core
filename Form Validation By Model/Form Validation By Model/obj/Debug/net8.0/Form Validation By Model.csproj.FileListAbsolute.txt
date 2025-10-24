@@ -1,0 +1,33 @@
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.AssemblyInfoInputs.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.AssemblyInfo.cs
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.csproj.CoreCompileInputs.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.RazorAssemblyInfo.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.RazorAssemblyInfo.cs
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\appsettings.Development.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\appsettings.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.staticwebassets.runtime.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.staticwebassets.endpoints.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.exe
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.deps.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.runtimeconfig.json
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.dll
+C:\C#\Form Validation By Model\Form Validation By Model\bin\Debug\net8.0\Form Validation By Model.pdb
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\scopedcss\bundle\Form Validation By Model.styles.css
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\scopedcss\projectbundle\Form Validation By Model.bundle.scp.css
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\staticwebassets.build.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\staticwebassets.development.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.dll
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\refint\Form Validation By Model.dll
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.pdb
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\Form Validation By Model.genruntimeconfig.cache
+C:\C#\Form Validation By Model\Form Validation By Model\obj\Debug\net8.0\ref\Form Validation By Model.dll
